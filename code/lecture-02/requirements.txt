@@ -1,0 +1,14 @@
+jupyter
+transformers
+sentencepiece
+protobuf
+accelerate
+langchain
+typing-extensions==4.8.0
+llama-index
+dataclasses-json==0.5.7
+sentence-transformers
+Scrapy
+pyarrow
+chainlit
+fastapi
