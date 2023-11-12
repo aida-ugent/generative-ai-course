@@ -1,0 +1,6 @@
+jupyter
+transformers
+accelerate
+matplotlib
+scipy
+datasets
